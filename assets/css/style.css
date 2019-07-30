@@ -1,0 +1,15 @@
+body{
+	background-image: url(https://wallpapers-house.com/data/out/21/wallpaper2you_1541.png);
+	text-align: center;
+}
+
+.text-muted{
+	color: black;
+	background: whitesmoke;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
